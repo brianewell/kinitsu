@@ -1,2 +1,2 @@
 # kinitsu
-media library standardization utility
+A multimedia library standardization and maintenance utility

@@ -1,0 +1,15 @@
+[package]
+name = "kinitsu"
+version = "0.1.0"
+authors = ["Brian Ewell"]
+edition = "2021"
+description = "A multimedia library standardization and maintenance utility"
+readme = "README.md"
+repository = "https://github.com/brianewell/kinitsu"
+license = "MPL-2.0"
+keywords = ["bittorrent","cli","encoding","ffmpeg","multimedia","utility"]
+categories = ["command-line-utilities","encoding","filesystem","multimedia"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
